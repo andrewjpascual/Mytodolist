@@ -1,6 +1,9 @@
 # To-Do List App
 Live version here  🠊 https://mytodolist-ap.netlify.app/
 
+![image](https://user-images.githubusercontent.com/57194224/131401360-9fc51192-74bd-463c-af70-f30cfe245eea.png)
+
+
 This is my first application using React, CSS, and Netlify to host. With this application, users can add items, edit items, delete items, and clear all items. 
 Additionally, the user will be able to refer back to the application at any later time with the use of local storage.
 
